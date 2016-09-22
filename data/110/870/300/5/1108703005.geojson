@@ -1,0 +1,85 @@
+{
+  "id": 1108703005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-76.8382072,18.0260369,-76.8382072,18.0260369",
+    "geom:latitude":18.026037,
+    "geom:longitude":-76.838207,
+    "iso:country":"JM",
+    "mz:hierarchy_label":1,
+    "sg:address":"Apt 9B Washington Court 2 Gilmour Drive",
+    "sg:city":"Kingston",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"20",
+    "sg:tags":[
+        "clothing",
+        "fashion",
+        "shoes",
+        "home-decor",
+        "exercise-equipment",
+        "car-accessories",
+        "jewellery",
+        "personal-care",
+        "perfumes",
+        "fragrances",
+        "bags",
+        "handbags",
+        "toys",
+        "computers",
+        "automotive"
+    ],
+    "sg:website":"http://www.bodybykay.org/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7m81nqQNBYORks4rQJlpFN_18.026037_-76.838207@1308163242"
+    },
+    "wof:country":"JM",
+    "wof:created":1474570903,
+    "wof:geomhash":"f5581fdb8820873fe895e3edd0345554",
+    "wof:hierarchy":[],
+    "wof:id":1108703005,
+    "wof:lastmodified":1474570903,
+    "wof:name":"Body by Kay",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clothing",
+        "fashion",
+        "shoes",
+        "home-decor",
+        "exercise-equipment",
+        "car-accessories",
+        "jewellery",
+        "personal-care",
+        "perfumes",
+        "fragrances",
+        "bags",
+        "handbags",
+        "toys",
+        "computers",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -76.8382072,
+    18.0260369,
+    -76.8382072,
+    18.0260369
+],
+  "geometry": {"coordinates":[-76.8382072,18.0260369],"type":"Point"}
+}
